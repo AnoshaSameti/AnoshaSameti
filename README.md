@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <b>🧬 Biomedical Engineering | 🤖 AI & Machine Learning | 🧠 Computational Intelligence</b>
+  <b> Biomedical Engineering |  AI & Machine Learning |  Computational Intelligence</b>
   <br/><br/>
   <img src="https://img.shields.io/badge/Field-Biomedical%20AI-0A9396?style=for-the-badge" alt="Biomedical AI"/>
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
