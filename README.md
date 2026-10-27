@@ -32,16 +32,73 @@ I enjoy exploring how machine learning algorithms can turn complex data into mea
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp&theme=dark" alt="Python, MATLAB, C and C++"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch and TensorFlow"/>
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,git,github,vscode&theme=dark" alt="NumPy, pandas, Git, GitHub and VS Code"/>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" alt="Python"/><br/>
+        <sub>Python</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="45" alt="MATLAB"/><br/>
+        <sub>MATLAB</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=c&theme=dark" width="45" alt="C"/><br/>
+        <sub>C</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45" alt="C++"/><br/>
+        <sub>C++</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="45" alt="PyTorch"/><br/>
+        <sub>PyTorch</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45" alt="TensorFlow"/><br/>
+        <sub>TensorFlow</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="45" alt="OpenCV"/><br/>
+        <sub>OpenCV</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="45" alt="Scikit-learn"/><br/>
+        <sub>Scikit-learn</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="45" alt="NumPy"/><br/>
+        <sub>NumPy</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="45" alt="Pandas"/><br/>
+        <sub>Pandas</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" alt="Git"/><br/>
+        <sub>Git</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub"/><br/>
+        <sub>GitHub</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-**Areas I'm exploring**
-
-`Machine Learning` · `Data Analysis` · `Biomedical Signal Processing` · `Statistical Learning` · `Predictive Modeling`
+<p align="center">
+  <b>Areas I'm Exploring</b><br/><br/>
+  <code>Machine Learning</code> ·
+  <code>Deep Learning</code> ·
+  <code>Biomedical Signal Processing</code><br/>
+  <code>Computer Vision</code> ·
+  <code>Data Analysis</code> ·
+  <code>Predictive Modeling</code>
+</p>
 
 ---
 
