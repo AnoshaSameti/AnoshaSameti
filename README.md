@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Anosha Sameti!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Biomedical%20Engineering%20%7C%20AI%2FML&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20Into%20Meaningful%20Discoveries&descAlignY=58&descSize=15" width="100%" alt="Biomedical Engineering and AI/ML banner"/>
-</div>
-
-<div align="center">
-  <b> Biomedical Engineering |  AI & Machine Learning |  Computational Intelligence</b>
+  <b>Biomedical Engineering | AI & Machine Learning | Computational Intelligence</b>
   <br/><br/>
   <img src="https://img.shields.io/badge/Field-Biomedical%20AI-0A9396?style=for-the-badge" alt="Biomedical AI"/>
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Language-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </div>
 
 ---
@@ -71,13 +69,13 @@ I enjoy exploring how machine learning algorithms can turn complex data into mea
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="45" alt="NumPy"/><br/>
+        <img src="https://cdn.simpleicons.org/numpy/013243" width="45" alt="NumPy"/><br/>
         <sub>NumPy</sub>
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="45" alt="Pandas"/><br/>
-        <sub>Pandas</sub>
-      </td>
+        <td align="center" width="120">
+          <img src="https://cdn.simpleicons.org/pandas/150458" width="45" alt="Pandas"/><br/>
+          <sub>Pandas</sub>
+        </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" alt="Git"/><br/>
         <sub>Git</sub>
