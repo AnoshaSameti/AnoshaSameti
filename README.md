@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anoosha Sameti!
+# 👋 Hi, I'm Anosha Sameti!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Biomedical%20Engineering%20%7C%20AI%2FML&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20Into%20Meaningful%20Discoveries&descAlignY=58&descSize=15" width="100%" alt="Biomedical Engineering and AI/ML banner"/>
@@ -22,7 +22,7 @@ I enjoy exploring how machine learning algorithms can turn complex data into mea
 - 🧬 Exploring AI/ML applications in biomedical engineering.
 - 📈 Building machine learning models and experimenting with data-driven predictions.
 - 💻 Learning the mathematics and algorithms behind machine learning, not just using ready-made libraries.
-- 🫀 Interested in biomedical signals, ECG analysis, and intelligent healthcare systems.
+- 💉 Interested in biomedical signals, ECG analysis, and intelligent healthcare systems.
 - 🌱 Continuously expanding my knowledge of deep learning and computational intelligence.
 
 > *My goal is to bridge the gap between engineering, intelligent algorithms, and real-world biomedical challenges.*
@@ -163,16 +163,6 @@ Here are a few projects from my GitHub that reflect my journey into machine lear
 
 ---
 
-## 🌱 Currently Exploring
-
-- 🧠 Neural networks and deep learning.
-- 🐍 Python for machine learning and scientific computing.
-- 🫀 Biomedical signal processing and intelligent healthcare applications.
-- 📚 The mathematical foundations of machine learning algorithms.
-- 🔬 Applying AI to meaningful biomedical problems.
-
----
-
 ## 🌐 Connect & Collaborate
 
 I'm always happy to connect with people interested in biomedical engineering, machine learning, healthcare technology, and scientific computing.
@@ -184,7 +174,7 @@ I'm always happy to connect with people interested in biomedical engineering, ma
   <a href="https://www.linkedin.com/in/anosha-sameti-461517281/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:anooshasameti83@gmail.com">
+  <a href="mailto:anooshasameti8383@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
