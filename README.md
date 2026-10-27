@@ -109,14 +109,14 @@ Here are a few projects from my GitHub that reflect my journey into machine lear
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🫀 ECG Analysis</h3>
+      <h3> ECG Analysis</h3>
       <a href="https://github.com/AnoshaSameti/ECG_Filter_Visualization_Prediction">
         <img src="https://img.shields.io/badge/ECG%20Analysis-0A9396?style=for-the-badge&logo=github&logoColor=white" alt="ECG Analysis project"/>
       </a>
       <p>Exploring ECG signal filtering, visualization, and prediction through Python and machine learning.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🦠 COVID-19 Prediction</h3>
+      <h3> COVID-19 Prediction</h3>
       <a href="https://github.com/AnoshaSameti/Logistic_Regression_COVID19_Dataset_Prediction_from_scratch">
         <img src="https://img.shields.io/badge/Logistic%20Regression-E76F51?style=for-the-badge&logo=github&logoColor=white" alt="COVID-19 prediction project"/>
       </a>
@@ -125,14 +125,14 @@ Here are a few projects from my GitHub that reflect my journey into machine lear
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌳 Decision Tree</h3>
+      <h3> Decision Tree</h3>
       <a href="https://github.com/AnoshaSameti/Decision_Tree">
         <img src="https://img.shields.io/badge/Decision%20Tree-2A9D8F?style=for-the-badge&logo=github&logoColor=white" alt="Decision Tree project"/>
       </a>
       <p>Exploring tree-based machine learning through a decision tree implementation.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Logistic Regression from Scratch</h3>
+      <h3> Logistic Regression from Scratch</h3>
       <a href="https://github.com/AnoshaSameti/Logistic_Regression_Gradient_from_scratch">
         <img src="https://img.shields.io/badge/Gradient%20Descent-457B9D?style=for-the-badge&logo=github&logoColor=white" alt="Logistic Regression from Scratch project"/>
       </a>
