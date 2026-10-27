@@ -6,12 +6,10 @@
 </p>
 
 <p align="center">
-  <b>🧬 Biomedical Engineering | 🤖 AI & Machine Learning | 🧠 Computational Intelligence</b>
+  <b> Biomedical Engineering | AI & Machine Learning | Computational Intelligence</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AnoshaSameti">
-    <img src="https://img.shields.io/badge/GitHub-AnoshaSameti-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/Field-Biomedical%20AI-0A9396?style=for-the-badge" alt="Biomedical AI"/>
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -137,8 +135,6 @@ Here are a few projects from my GitHub that reflect my journey into machine lear
 I'm always happy to connect with people interested in biomedical engineering, machine learning, healthcare technology, and scientific computing.
 
 <p align="center">
-  <a href="https://github.com/AnoshaSameti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
